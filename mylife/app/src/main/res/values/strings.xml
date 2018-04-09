@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">什么玩意</string>
+    <string name="query">查询</string>
+    <string name="connect_server">连接服务器</string>
+    <string name="connect_server_now">正在连接，请稍等...</string>
+    <string name="recipe_name">菜名</string>
+    <string name="recipe_type">菜谱类型</string>
+    <string name="recipe_ingredients">食材</string>
+    <string name="recipe_burden">附加量</string>
+    <string name="imtro">简介</string>
+    <string name="input_recipe_name">请输入菜名</string>
+    <string name="what">什么玩意</string>
+</resources>
